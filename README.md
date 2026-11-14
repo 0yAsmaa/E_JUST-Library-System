@@ -7,7 +7,7 @@
 - Hana
 - Nouran
 - Asmaa
-- 
+  
 ## Project Description
 A web-based system to manage the E-JUST library's day-to-day activities, including book borrowing, study room booking, and library registration.
 
