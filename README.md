@@ -18,11 +18,8 @@ A web-based system to manage the E-JUST library's day-to-day activities, includi
 ## Pages Implemented (10 Pages)
 1. Login / Register
 2. Home Page (Student & Librarian)
-3. Profile Page
-4. Library Registration
-5. Study Rooms
-6. Books
-7. Borrowing
-8. Librarian - Library Registration Analysis
-9. Librarian - Study Rooms Analysis
-10. Librarian - Books Analysis
+3. Library Registration
+4. Books
+5. Borrowing
+6. Librarian - Library Registration Analysis
+7. Librarian - Books Analysis
