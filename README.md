@@ -1,7 +1,6 @@
 # E-JUST Library System
 
 **Course:** CNC 111 - Web Programming
-**Instructor:** Dr. Ahmed Bayoumi
 
 ## Team Members
 - Hana
